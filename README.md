@@ -1,24 +1,24 @@
-### Hi I'm Hyejin
+# Hi I'm Hyejin
 
 ## 🤔 SKILL
-# Frontend
+### Frontend
 - HTML
 - JS(jQuery)
 - CSS
 - Bootstrap
 
-# Backend
+### Backend
 - python
 - Django
 - SQLite
 - Postgresql
 
-# Communication
+### Communication
 - Figma
 - draw.io
 - Notion
 - ERDcloud
 - Ovenapp
 
-# Version Control
+### Version Control
 - GitHub
