@@ -1,13 +1,24 @@
 ### Hi I'm Hyejin
 
+## 🤔 SKILL
+# Frontend
+- HTML
+- JS(jQuery)
+- CSS
+- Bootstrap
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- ##🤔 SKILL
-* 
-- I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+# Backend
+- python
+- Django
+- SQLite
+- Postgresql
 
+# Communication
+- Figma
+- draw.io
+- Notion
+- ERDcloud
+- Ovenapp
+
+# Version Control
+- GitHub
