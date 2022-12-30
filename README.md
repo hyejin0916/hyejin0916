@@ -32,3 +32,8 @@
 <img src="https://img.shields.io/badge/Git-4297F7?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-1F7AE1?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin0916)](https://github.com/hyejin0916/github-readme-stats)
+
+
+
