@@ -3,6 +3,7 @@
 <h3 align="center"> 🤔 SKILL</h3>
 
 ### Frontend
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/CSS-E89313?style=flat-square&logo=CSS3&logoColor=white"/>
     <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
     <img src="https://img.shields.io/badge/JAVASCRIPT(JQUERY)-0769AD?style=flat-square&logo=JavaScript&logoColor=white"/>
