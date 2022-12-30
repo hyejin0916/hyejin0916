@@ -12,7 +12,7 @@
 
 <h3 align="center"> Backend</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-F6B70B?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-F2B100?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-D8A310?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-B3870C?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-987106?style=flat-square&logo=SQLite&logoColor=white"/>
