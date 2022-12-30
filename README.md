@@ -13,7 +13,7 @@
 <h3 align="center"> Backend</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-F2B100?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-D8A310?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-D8A310?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-B3870C?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-987106?style=flat-square&logo=SQLite&logoColor=white"/>
 </p>
@@ -22,9 +22,9 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-3AF76C?style=flat-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/ErdCloud-15F250?style=flat-square&logo=GitBook&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-09D43F?style=flat-square&logo=GitBook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-09D43F?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ovenapp-04BC35?style=flat-square&logo=GitBook&logoColor=white"/>
-<img src="https://img.shields.io/badge/Draw.io-059C2E?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Draw.io-059C2E?style=flat-square&logo=GitBook&logoColor=white"/>
 </p>
 
 <h3 align="center"> Version Control</h3>
