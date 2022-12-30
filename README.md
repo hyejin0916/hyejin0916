@@ -4,8 +4,8 @@
 
 <h3 align="center"> Frontend</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/CSS-F78989?style=flat-square&logo=CSS3&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML-F35B5B?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/HTML-F78989?style=flat-square&logo=HTML5&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-F35B5B?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT(JQUERY)-EC3737?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-DB1717?style=flat-square&logo=Bootstrap&logoColor=white"/>
 </p>
@@ -21,10 +21,10 @@
 <h3 align="center"> Communication</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-3AF76C?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ovenapp-15F250?style=flat-square&logo=GitBook&logoColor=white"/>
-<img src="https://img.shields.io/badge/Draw.io-09D43F?style=flat-square&logo=GitBook&logoColor=white"/>
-<img src="https://img.shields.io/badge/ErdCloud-04BC35?style=flat-square&logo=GitBook&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-059C2E?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/ErdCloud-15F250?style=flat-square&logo=GitBook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-09D43F?style=flat-square&logo=GitBook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ovenapp-04BC35?style=flat-square&logo=GitBook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Draw.io-059C2E?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 
 <h3 align="center"> Version Control</h3>
