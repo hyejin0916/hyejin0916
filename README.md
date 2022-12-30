@@ -4,7 +4,7 @@
 
 <h3 align="center"> Frontend</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/CSS-E89313?style=flat-square&logo=CSS3&logoColor=white"/>
+<img src="https://img.shields.io/badge/CSS-F78989?style=flat-square&logo=CSS3&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/JAVASCRIPT(JQUERY)-0769AD?style=flat-square&logo=JavaScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
