@@ -1,31 +1,26 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=300&section=header&text=Kanghyejin&fontSize=90)
 
 <h3 align="center"> 🤔 SKILL</h3>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
 
 ### Frontend
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=HTML&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=JS(jQuery)&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=CSS&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Bootstrap&logoColor=white"/></a>
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>HTML5</title><path d="M1.5 0h21l-1.91 21.563L11.977 24l-8.564-2.438L1.5 0zm7.031 9.75l-.232-2.718 10.059.003.23-2.622L5.412 4.41l.698 8.01h9.126l-.326 3.426-2.91.804-2.955-.81-.188-2.11H6.248l.33 4.171L12 19.351l5.379-1.443.744-8.157H8.531z"/></svg>
-- HTML
-- JS(jQuery)
-- CSS
-- Bootstrap
+    <img src="https://img.shields.io/badge/CSS-E89313?style=flat-square&logo=CSS3&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JAVASCRIPT(JQUERY)-0769AD?style=flat-square&logo=JavaScript&logoColor=white"/>
+    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
 
 ### Backend
-- python
-- Django
-- SQLite
-- Postgresql
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Python&logoColor=white"/>
+    <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
 
 ### Communication
-- Figma
-- draw.io
-- Notion
-- ERDcloud
-- Ovenapp
+    <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Ovenapp-FF4F8B?style=flat-square&logo=GitBook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Draw.io-407AFC?style=flat-square&logo=GitBook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ErdCloud-DA1F26?style=flat-square&logo=GitBook&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Notion-56B366?style=flat-square&logo=Notion&logoColor=white"/>
 
 ### Version Control
-- GitHub
+    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
