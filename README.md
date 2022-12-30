@@ -12,10 +12,10 @@
 
 <h3 align="center"> Backend</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Python-EFEAA7?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Django-E9E16F?style=flat-square&logo=Python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-E4D835?style=flat-square&logo=PostgreSQL&logoColor=white"/>
-<img src="https://img.shields.io/badge/SQLite-C4B915?style=flat-square&logo=SQLite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-FCBF18?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Django-D8A310?style=flat-square&logo=Python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PostgreSQL-B3870C?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQLite-987106?style=flat-square&logo=SQLite&logoColor=white"/>
 </p>
 
 <h3 align="center"> Communication</h3>
