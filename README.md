@@ -2,17 +2,12 @@
 
 <h3 align="center"> 🤔 SKILL</h3>
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
-<div style="height:20rem; width:100%">
-	<div style="height:50%; width:100%; margin:1rem auto">
-    	<div style="display: inline-block; border: 2px solid #01579B; border-radius: 20px; height:90%; width:48.5%"></div>
-        <div style="display: inline-block; border: 2px solid #01579B; border-radius: 20px; height:90%; width:48.5%"></div>
-    </div>
-    <div style="height:50%; width:100%; margin:1rem auto">
-    	<div style="display: inline-block; border: 2px solid #01579B; border-radius: 20px; height:90%; width:48.5%"></div>
-        <div style="display: inline-block; border: 2px solid #01579B; border-radius: 20px; height:90%; width:48.5%"></div>
-    </div>
-</div>
+
 ### Frontend
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=HTML&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=JS(jQuery)&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=CSS&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Bootstrap&logoColor=white"/></a>&nbsp 
 - HTML
 - JS(jQuery)
 - CSS
