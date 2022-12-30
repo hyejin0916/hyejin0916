@@ -29,6 +29,6 @@
 
 <h3 align="center"> Version Control</h3>
 <p align="center">
-<img src="https://img.shields.io/badge/Git-89BFEF?style=flat-square&logo=Git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-479EE9?style=flat-square&logo=GitHub&logoColor=white"/>
+<img src="https://img.shields.io/badge/Git-4297F7?style=flat-square&logo=Git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-1F7AE1?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
