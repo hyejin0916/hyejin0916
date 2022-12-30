@@ -37,11 +37,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin0916&show_icons=true&theme=radical)
 
 
-<a href="https://github.com/hyejin0916/github-readme-stats">
+<!-- <a href="https://github.com/hyejin0916/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyejin0916&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/hyejin0916/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=hyejin0916&repo=convoychat" />
-</a>
+</a> -->
 
 
