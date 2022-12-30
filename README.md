@@ -11,18 +11,24 @@
 </p>
 
 ### Backend
+<p>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Python&logoColor=white"/>
 <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>
+</p>
 
 ### Communication
+<p>
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white"/>
 <img src="https://img.shields.io/badge/Ovenapp-FF4F8B?style=flat-square&logo=GitBook&logoColor=white"/>
 <img src="https://img.shields.io/badge/Draw.io-407AFC?style=flat-square&logo=GitBook&logoColor=white"/>
 <img src="https://img.shields.io/badge/ErdCloud-DA1F26?style=flat-square&logo=GitBook&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-56B366?style=flat-square&logo=Notion&logoColor=white"/>
+</p>
 
 ### Version Control
+<p>
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
+</p>
