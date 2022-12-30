@@ -21,10 +21,10 @@
 <h3 align="center"> Communication</h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Figma-3AF76C?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Ovenapp-5CF67A?style=flat-square&logo=GitBook&logoColor=white"/>
-<img src="https://img.shields.io/badge/Draw.io-32EC57?style=flat-square&logo=GitBook&logoColor=white"/>
-<img src="https://img.shields.io/badge/ErdCloud-25C344?style=flat-square&logo=GitBook&logoColor=white"/>
-<img src="https://img.shields.io/badge/Notion-10AB2F?style=flat-square&logo=Notion&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ovenapp-15F250?style=flat-square&logo=GitBook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Draw.io-09D43F?style=flat-square&logo=GitBook&logoColor=white"/>
+<img src="https://img.shields.io/badge/ErdCloud-04BC35?style=flat-square&logo=GitBook&logoColor=white"/>
+<img src="https://img.shields.io/badge/Notion-059C2E?style=flat-square&logo=Notion&logoColor=white"/>
 </p>
 
 <h3 align="center"> Version Control</h3>
