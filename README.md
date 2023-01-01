@@ -33,11 +33,11 @@
 <img src="https://img.shields.io/badge/GitHub-1F7AE1?style=flat-square&logo=GitHub&logoColor=white"/>
 </p>
 
-<h3 align="center">Inpormation</h3>
+<!-- <h3 align="center">Inpormation</h3>
 <p align="center">
 <a href="https://www.notion.so/Portfolio-d4331eadf8604fb88672394eb4ed36d1" target="_blank"><img src="https://img.shields.io/badge/Notion-20c997?style=flat-square&logo=Notion&logoColor=white"/></a><br>
 email: hj.kang8951@gmail.com
-</p>
+</p> -->
 
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin0916)](https://github.com/hyejin0916/github-readme-stats) -->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hyejin0916&show_icons=true&theme=radical)
