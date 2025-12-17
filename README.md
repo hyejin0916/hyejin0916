@@ -41,7 +41,7 @@
 
 <img src="https://img.shields.io/badge/Notion-F8BBD0?style=flat-square&logo=Notion&logoColor=white"/>
 <img src="https://img.shields.io/badge/Figma-F48FB1?style=flat-square&logo=Figma&logoColor=white"/>
-<img src="https://img.shields.io/badge/Slack-F06292?style=flat-square&logo=Slack&logoColor=white"/>
+<img src="https://img.shields.io/badge/Slack-F06292?style=flat-square&logo=slackware&logoColor=white"/>
 
 <br/>
 
