@@ -20,14 +20,14 @@
 **Language**  
 <img src="https://img.shields.io/badge/Python-FAD689?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/TypeScript-F7C057?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F2A828?style=flat-square&logo=JavaScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-F2A828?style=flat-square&logo=Java&logoColor=white"/>
 
 **Framework & Library**  
 <img src="https://img.shields.io/badge/Django-A8E6CF?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/Django REST Framework-7ED9A6?style=flat-square&logo=Django&logoColor=white"/>
 <img src="https://img.shields.io/badge/NestJS-7ED9A6?style=flat-square&logo=NestJS&logoColor=white"/> 
 <img src="https://img.shields.io/badge/FastAPI-33A355?style=flat-square&logo=FastAPI&logoColor=white"/> 
-<img src="https://img.shields.io/badge/SpringBoot-33A355?style=flat-square&logo=springboot&logoColor=white"/> 
+<img src="https://img.shields.io/badge/SpringBoot-008d62?style=flat-square&logo=springboot&logoColor=white"/> 
 
 **Database & Search**  
 <img src="https://img.shields.io/badge/MySQL-B3E5FC?style=flat-square&logo=MySQL&logoColor=white"/> 
