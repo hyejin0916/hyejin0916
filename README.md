@@ -17,9 +17,9 @@
 ### 🖥️ Backend
 **Language**  
 <img src="https://img.shields.io/badge/Python-FAD689?style=flat-square&logo=Python&logoColor=white"/> 
-<img src="https://img.shields.io/badge/TypeScript-F7C057?style=flat-square&logo=TypeScript&logoColor=white"/>
-<img src="https://img.shields.io/badge/java-F2A828?style=flat-square&logo=OpenJDK&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+<img src="https://img.shields.io/badge/java-F7C057?style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-F2A828?style=flat-square&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-E58A3A?style=flat-square&logo=C&logoColor=white"/>
 
 **Framework & Library**  
 <img src="https://img.shields.io/badge/Django-A8E6CF?style=flat-square&logo=Django&logoColor=white"/>
