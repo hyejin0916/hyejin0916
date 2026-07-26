@@ -5,11 +5,9 @@
 
 안녕하세요, 저는 hyejin 입니다.
  
-⚡ Python, TypeScript, Java를 활용한 백엔드 개발 경험을 갖추고 있습니다.  
+⚡ Python, Java, TypeScript, C 언어를 활용한 백엔드 개발 경험을 갖추고 있습니다.  
 🌱 학습한 내용을 Velog에 정리하며, 백엔드 개발 관련 기술과 인프라, 자료구조 등을 공부하고 공유하고 있습니다.  
 🔗 [Hyejin's Tech Diary](https://velog.io/@gpwls6240/posts)  
-
-💬 개발 과정에서 최적의 의사결정과 체계적인 문서화를 중요하게 생각하며, 코드의 가독성과 유지보수성을 항상 고려합니다.
 
 <br/>
 
@@ -21,6 +19,7 @@
 <img src="https://img.shields.io/badge/Python-FAD689?style=flat-square&logo=Python&logoColor=white"/> 
 <img src="https://img.shields.io/badge/TypeScript-F7C057?style=flat-square&logo=TypeScript&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-F2A828?style=flat-square&logo=OpenJDK&logoColor=white"/>
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
 
 **Framework & Library**  
 <img src="https://img.shields.io/badge/Django-A8E6CF?style=flat-square&logo=Django&logoColor=white"/>
